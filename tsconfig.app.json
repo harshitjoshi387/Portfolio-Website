@@ -18,8 +18,7 @@
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "types": ["gsap-trial"]
+    "noFallthroughCasesInSwitch": true
   },
   "include": ["src"]
 }
