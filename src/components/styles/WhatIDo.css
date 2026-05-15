@@ -68,6 +68,7 @@
   margin: 0;
 }
 .what-content p {
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 14px;
   line-height: 18px;
   font-weight: 200;
@@ -213,7 +214,7 @@
   opacity: 0.5;
   font-size: 12px;
   letter-spacing: 1px;
-  font-family: "Geist", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   margin-bottom: 5px;
 }
 @keyframes whatBorders {
